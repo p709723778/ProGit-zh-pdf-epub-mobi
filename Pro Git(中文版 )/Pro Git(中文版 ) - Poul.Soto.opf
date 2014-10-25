@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb62684b-8763-4f7e-80c7-2b4370b29fa9</dc:identifier>
+        <dc:title>Pro Git（中文版）</dc:title>
+        <dc:creator opf:file-as="Poul.Soto" opf:role="aut">Poul.Soto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.7.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-24T16:00:00+00:00</dc:date>
+        <dc:publisher>Gary</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>1.0</dc:subject>
+        <meta content="{&quot;Poul.Soto&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Git" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="10.0" name="calibre:rating"/>
+        <meta content="2014-10-25T08:12:11.829000+00:00" name="calibre:timestamp"/>
+        <meta content="Pro Git（中文版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Pro Git(Zhong Wen Ban ) - Poul.Soto.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
